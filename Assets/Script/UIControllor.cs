@@ -36,7 +36,7 @@ public class UIControllor : MonoBehaviour
         {
             Application.Quit();
         }
-        GUI.Label(new Rect(Screen.width - 150, Screen.height - 50, 200, 40), "by 蔡林希 ");
+        GUI.Label(new Rect(Screen.width - 150, Screen.height - 50, 200, 40), "by lenzo ");
 
 
         for (int i = 0;i<Common.wifiNodes.Count;i++)
